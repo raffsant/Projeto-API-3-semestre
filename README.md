@@ -78,5 +78,4 @@ O objetivo deste projeto é desenvolver uma solução integrada para otimizar pr
 ### Melhorias e Colaboração
 Este projeto busca promover a colaboração entre os membros da equipe, utilizando o GitHub como ferramenta central para versionamento e compartilhamento de código. A metodologia SCRUM será aplicada para garantir entregas contínuas e de alta qualidade.
 
-### Licença
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
