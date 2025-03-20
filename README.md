@@ -41,7 +41,7 @@ O objetivo deste projeto é desenvolver uma solução integrada para otimizar pr
 - **Ferramentas de Colaboração**: Slack e Jira.
 
 # Backlog do Produto
-![Image](https://github.com/user-attachments/assets/366fad18-0848-4403-adca-3187a672792
+![Imagem Backlog](https://github.com/raffsant/Projeto-API-3-semestre/blob/main/image%20backlog.png?raw=true)
 
 ## Sprint 1
 - [ ] Criar um banco de dados SQL para armazenamento das informações.
