@@ -12,7 +12,7 @@ O Projeto Integrador (API) oferece uma experiência prática na resolução de p
 * [Registro das Sprints](#registro-das-sprints)
 
 # Projeto (API)
-Descrição da demanda realizada pelo parceiro acadêmico. Este projeto visa a criação de um **dashboard** para análise de dados logísticos, utilizando tecnologias como **SQL**, **Python**, **Power BI** e **Excel**. O objetivo é permitir a visibilidade de relatórios sobre volume, valores e caminhos, além de colaborar com um centro moderno para melhorar processos e frequência de entregas.
+O projeto, baseado na metodologia Ágil Scrum, tem como objetivo analisar a eficiência das rotas em uma empresa embarcadora, visando aprimorar a distribuição e reduzir custos logísticos. A demanda do parceiro acadêmico consiste na criação de um dashboard para análise de dados logísticos, utilizando SQL, Python, Power BI e Excel. O objetivo é oferecer visibilidade sobre volume, valores e rotas, além de contribuir para um centro moderno, melhorando processos e a frequência das entregas.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
