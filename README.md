@@ -73,9 +73,6 @@ O objetivo deste projeto é desenvolver uma solução integrada para otimizar pr
 | 04     | 24/06/2025 | A fazer | [MVP](https://) |
 | Feira de Soluções | 29/05/2025 | A fazer | [MVP](https://) |
 
----
 
-### Melhorias e Colaboração
-Este projeto busca promover a colaboração entre os membros da equipe, utilizando o GitHub como ferramenta central para versionamento e compartilhamento de código. A metodologia SCRUM será aplicada para garantir entregas contínuas e de alta qualidade.
 
 
