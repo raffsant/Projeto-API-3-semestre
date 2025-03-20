@@ -41,6 +41,7 @@ O objetivo deste projeto é desenvolver uma solução integrada para otimizar pr
 - **Ferramentas de Colaboração**: Slack e Jira.
 
 # Backlog do Produto
+![Image](https://github.com/user-attachments/assets/366fad18-0848-4403-adca-3187a672792
 
 ## Sprint 1
 - [ ] Criar um banco de dados SQL para armazenamento das informações.
