@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrador (API)
+# Aprendizado por Projeto Integrador
 
 O Projeto Integrador (API) oferece uma experiência prática na resolução de problemas logísticos reais. Dividido em quatro Sprints, o projeto utiliza a metodologia ágil SCRUM para criar um banco de dados SQL, desenvolver dashboards em Power BI e otimizar rotas de transporte. Utilizando ferramentas como Python, SQL, Excel e Power BI, o foco é analisar dados logísticos para melhorar a distribuição e reduzir custos, aplicando conceitos e habilidades adquiridas no curso.
 
