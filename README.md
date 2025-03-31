@@ -31,7 +31,7 @@ O projeto, baseado na metodologia Ágil Scrum, tem como objetivo analisar a efic
 # Objetivo do Projeto 🎯
 O objetivo deste projeto é desenvolver uma solução integrada para otimizar processos logísticos, utilizando tecnologias como SQL, Python, Power BI e Excel. Ao longo de 4 Sprints, serão criados bancos de dados, dashboards interativos e relatórios detalhados para análise de volumes, valores, rotas e fretes. O projeto também incluirá a implementação de um modelo de otimização de rotas, visando maximizar a eficiência dos caminhões e reduzir custos operacionais. A capacitação em ferramentas técnicas garantirá a entrega de um produto completo e alinhado com as necessidades do projeto. O foco é aprimorar as rotas de três unidades de uma empresa, aplicando métodos de pesquisa operacional para melhorar a eficiência logística e reduzir custos e tempo de transporte.
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas 🗃️
 
 ### Tecnologias Específicas/Apoio
 - **SQL**: Para gerenciamento e consulta de bancos de dados.
@@ -40,7 +40,7 @@ O objetivo deste projeto é desenvolver uma solução integrada para otimizar pr
 - **Excel**: Para análise e organização de dados.
 - **GitHub**: Para versionamento e colaboração no projeto.
 
-### Tecnologias da Informação
+### Tecnologias da Informação 🗃️
 - **Metodologia Ágil (SCRUM)**: Para gerenciamento do projeto.
 - **Ferramentas de Colaboração**: Slack e Jira.
 
