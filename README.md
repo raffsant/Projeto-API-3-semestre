@@ -36,7 +36,6 @@ O objetivo deste projeto é desenvolver uma solução integrada para otimizar pr
 
 ## Tecnologias Utilizadas 🗃️
 
-### Tecnologias Específicas/Apoio
 - **SQL**: Para gerenciamento e consulta de bancos de dados.
 - **Python**: Para automação, análise de dados e integração com APIs.
 - **Power BI**: Para criação de dashboards e visualização de dados.
