@@ -39,8 +39,6 @@ O objetivo deste projeto é desenvolver uma solução integrada para otimizar pr
 - **Power BI**: Para criação de dashboards e visualização de dados.
 - **Excel**: Para análise e organização de dados.
 - **GitHub**: Para versionamento e colaboração no projeto.
-
-### Tecnologias da Informação 🗃️
 - **Metodologia Ágil (SCRUM)**: Para gerenciamento do projeto.
 - **Ferramentas de Colaboração**: Slack e Jira.
 
