@@ -28,7 +28,7 @@ O projeto, baseado na metodologia Ágil Scrum, tem como objetivo analisar a efic
 |  Team Member  | Rafaela da Silva Melo                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafaela-melo-14b349357/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/rafaeladasilvamelo)   |
 |  Team Member  | Alexssander Abreu de Campos       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexssander-abreu-de-campos-8a6617304/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/alexssander321)          |
 
-# Objetivo do Projeto
+# Objetivo do Projeto 🎯
 O objetivo deste projeto é desenvolver uma solução integrada para otimizar processos logísticos, utilizando tecnologias como SQL, Python, Power BI e Excel. Ao longo de 4 Sprints, serão criados bancos de dados, dashboards interativos e relatórios detalhados para análise de volumes, valores, rotas e fretes. O projeto também incluirá a implementação de um modelo de otimização de rotas, visando maximizar a eficiência dos caminhões e reduzir custos operacionais. A capacitação em ferramentas técnicas garantirá a entrega de um produto completo e alinhado com as necessidades do projeto. O foco é aprimorar as rotas de três unidades de uma empresa, aplicando métodos de pesquisa operacional para melhorar a eficiência logística e reduzir custos e tempo de transporte.
 
 ## Tecnologias Utilizadas
