@@ -18,7 +18,7 @@ O Projeto Integrador (API) oferece uma experiência prática na resolução de p
 # Projeto (API)
 O projeto, baseado na metodologia Ágil Scrum, tem como objetivo analisar a eficiência das rotas em uma empresa embarcadora, visando aprimorar a distribuição e reduzir custos logísticos. A demanda do parceiro acadêmico consiste na criação de um dashboard para análise de dados logísticos, utilizando SQL, Python, Power BI e Excel. O objetivo é oferecer visibilidade sobre volume, valores e rotas, além de contribuir para um centro moderno, melhorando processos e a frequência das entregas.
 
-# Equipe
+# Equipe 👨💻
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Leonardo William Santos         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaomarcosoliveiraa) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Leonardowso)              |
