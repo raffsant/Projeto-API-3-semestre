@@ -45,7 +45,8 @@ O objetivo deste projeto é desenvolver uma solução integrada para otimizar pr
 - **Ferramentas de Colaboração**: Slack e Jira.
 
 
-# 📦 Backlog do Produto - Análise de Dados Logísticos 
+
+# 📦 Backlog do Produto 
 
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 |------|------------|------------|------------|--------|
