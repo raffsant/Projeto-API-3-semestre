@@ -40,23 +40,26 @@ O objetivo deste projeto é desenvolver uma solução integrada para otimizar pr
 - **Metodologia Ágil (SCRUM)**: Para gerenciamento do projeto.
 - **Ferramentas de Colaboração**: Slack e Jira.
 
-## Backlog do Produto 📋
 
-| Rank  | Prioridade | User Story | Estimativa  | Sprint | 
-|:-----:|:----------:|:----------:|:-----------:|:------:|
-|   1   |      Alta      |Como consultor, quero realizar uma análise dos dados enviados pelo cliente e buscar erros na base de dados, para que eu possa identificar possíveis inconsistências e corrigi-las antes de continuar o processamento.|      8       |   1    |
-|   2   |     Média       |Como consultor, quero criar repositórios no GitHub e configurar o JIRA, para que eu possa gerenciar as versões do código e organizar as tarefas de forma eficiente.|       5      |   1    |
-|   3   |     Média       |Como consultor, quero analisar os erros em relação a incoterms e datas na base de dados, utilizando Power BI para visualizações, para que eu possa apresentar os resultados de maneira clara e gerar minis relatórios para cada tarefa concluída.|      8       |    1   |
-|   4   |      Baixa      |Como consultor, quero identificar os meses com maior incidência de erros e exibir essa informação em um gráfico de barras, para que eu possa facilmente visualizar e identificar padrões ao longo do tempo.|      5       |   1    |
-|   5   |      Média      |Como consultor, quero comparar os dados com erros e os dados corrigidos, demonstrando os custos adicionais causados por erros na base de dados, para que o cliente compreenda o impacto financeiro das inconsistências nos dados, com visualizações claras em cartões de valores e gráficos.|      3       |    1   |
-|   6   |      Média      |Como consultor, quero analisar as rotas de transporte, gerando um mapa e comparando o valor com a distância, para que eu possa entender as variáveis que impactam os custos e otimizar as rotas.|      8       |   2    |
-|   7   |      Alta      |Como consultor, quero calcular o LEAD TIME, focando na média de tempo do processo completo, para que eu possa identificar oportunidades para otimizar e melhorar a eficiência do processo, exibindo resultados em gráficos e cartões de valor.|       13      |   2    |
-|   8   |      Média      |Como consultor, quero analisar as possibilidades de consolidação de cargas, para que eu possa sugerir alternativas para reduzir custos de transporte.|       13      |   2    |
-|   9   |      Média      |Como consultor, quero analisar a capacidade total e utilizada dos caminhões, buscando substituições adequadas entre os veículos, para que eu possa otimizar o uso da frota e melhorar a alocação de recursos, demonstrando os resultados em gráficos.|      5       |   2    |
-|  10   |      Alta      |Como consultor, quero analisar os custos totais em cada processo e sugerir formas de reduzi-los, para que eu possa ajudar a empresa a reduzir despesas e gerar projeções de melhoria para o período 2023-2025, visualizando as informações em gráficos comparativos.|      13       |   3    |
-|  11   |     Alta       |Como consultor, quero realizar a análise de projeção de custos e performance para 2023-2025, utilizando Power BI para visualizar os dados, para que eu possa fornecer insights claros sobre os futuros cenários e apoiar o planejamento estratégico.|       8      |    3   |
-|  12   |      Baixa      |Como consultor, quero revisar a qualidade dos dados com base nos relatórios gerados anteriormente, para que eu possa identificar áreas críticas e garantir que os dados usados nas análises sejam precisos e confiáveis.|       5      |   3    |
-|  13   |      Alta      |Como consultor, quero gerar um relatório completo sobre os dados analisados, demonstrando os procedimentos, erros e pontos de melhoria, para que a equipe e o cliente possam visualizar o impacto das ações tomadas e projetar as melhorias para 2025.            |      20       |   4    |
+# 📦 Backlog do Produto - Análise de Dados Logísticos 
+
+| Rank | Prioridade | User Story | Estimativa | Sprint |
+|------|------------|------------|------------|--------|
+| 1 | 🔥 Alta | **Como consultor**, quero implementar uma análise automatizada dos dados do cliente **para identificar e corrigir inconsistências críticas antes do processamento**. | 8 | 1 |
+| 2 | ⭐ Média | **Como consultor**, quero configurar repositórios no GitHub e projetos no JIRA **para organizar e rastrear todas as atividades da equipe**. | 5 | 1 |
+| 3 | ⭐ Média | **Como consultor**, quero desenvolver dashboards no Power BI **para monitorar erros em Incoterms e prazos de entrega com atualização diária**. | 8 | 1 |
+| 4 | 📉 Baixa | **Como consultor**, quero gerar relatórios de sazonalidade **para visualizar a distribuição mensal de inconsistências nos dados**. | 5 | 1 |
+| 5 | ⭐ Média | **Como consultor**, quero comparar versões dos dados (antes/depois das correções) **para demonstrar o impacto operacional das inconsistências**. | 5 | 1 |
+| 6 | ⭐ Média | **Como consultor**, quero mapear todas as rotas de transporte **para analisar a relação entre distâncias, modais e custos associados**. | 8 | 2 |
+| 7 | 🔥 Alta | **Como consultor**, quero calcular o LEAD TIME completo do processo logístico **para entender os tempos por etapa (armazenagem, transporte, documentação) e subsidiar melhorias**, com visualização em gráficos temporais. | 12 | 2 |
+| 8 | ⭐ Média | **Como consultor**, quero avaliar oportunidades de consolidação de cargas **para propor ajustes na programação de entregas**. | 12 | 2 |
+| 9 | ⭐ Média | **Como consultor**, quero analisar a capacidade operacional da frota **para sugerir melhorias na alocação de veículos**. | 5 | 2 |
+| 10 | 🔥 Alta | **Como consultor**, quero mapear os principais custos logísticos **para identificar áreas com potencial de redução de despesas**. | 12 | 3 |
+| 11 | 🔥 Alta | **Como consultor**, quero realizar a análise de projeção de custos e performance para 2023-2025, utilizando Power BI para visualizar os dados, **para que eu possa fornecer insights claros sobre os futuros cenários e apoiar o planejamento estratégico**. | 8 | 3 |
+| 12 | 📉 Baixa | **Como consultor**, quero implementar uma revisão final da qualidade dos dados **para validar a precisão das análises realizadas**. | 5 | 3 |
+| 13 | 🔥 Alta | **Como consultor**, quero consolidar um relatório executivo completo **com: diagnóstico, ações tomadas, resultados alcançados e plano de otimização para 2025**, para embasar decisões estratégicas. | 20 | 4 |
+
+
 
 
 ## Sprint 1
