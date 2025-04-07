@@ -68,7 +68,6 @@ O objetivo deste projeto é desenvolver uma solução integrada para otimizar pr
 
 
 ## Sprint 1
-- [ ] Criar um banco de dados SQL para armazenamento das informações.
 - [ ] Desenvolver um dashboard em Power BI para visualização dos dados.
 - [ ] Implementar métodos de transporte em Excel para análise inicial.
 - [ ] Iniciar o nivelamento técnico da equipe em Python, SQL, Excel e Power BI.
@@ -81,6 +80,7 @@ O objetivo deste projeto é desenvolver uma solução integrada para otimizar pr
 - [ ] Analisar distância e valores dos fretes.
 - [ ] Identificar veículos com carga máxima.
 - [ ] Avaliar a frequência de viagens.
+- [ ] Criar um banco de dados SQL para armazenamento das informações.
 
 ## Sprint 3
 - [ ] Desenvolver um modelo de otimização das rotas.
@@ -92,7 +92,7 @@ O objetivo deste projeto é desenvolver uma solução integrada para otimizar pr
 
 | Sprint | Previsão | Status | Histórico |
 |--------|----------|--------|-----------|
-| 01     | 01/04/2025 | A fazer | [MVP](https://) |
+| 01     | 08/04/2025 | A fazer | [MVP](https://) |
 | 02     | 22/04/2025 | A fazer | [MVP](https://) |
 | 03     | 13/05/2025 | A fazer | [MVP](https://) |
 | 04     | 24/06/2025 | A fazer | [MVP](https://) |
