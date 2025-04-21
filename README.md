@@ -92,7 +92,7 @@ O objetivo deste projeto é desenvolver uma solução integrada para otimizar pr
 
 | Sprint | Previsão | Status | Histórico |
 |--------|----------|--------|-----------|
-| 01     | 08/04/2025 | Concluído | [MVP](https://) |
+| 01     | 08/04/2025 | Concluído | [MVP](https://youtu.be/XUWFMktRAbQ) |
 | 02     | 22/04/2025 | A fazer | [MVP](https://) |
 | 03     | 13/05/2025 | A fazer | [MVP](https://) |
 | 04     | 24/06/2025 | A fazer | [MVP](https://) |
