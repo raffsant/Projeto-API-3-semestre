@@ -68,9 +68,9 @@ O objetivo deste projeto é desenvolver uma solução integrada para otimizar pr
 
 
 ## Sprint 1
-- [ ] Desenvolver um dashboard em Power BI para visualização dos dados.
-- [ ] Implementar métodos de transporte em Excel para análise inicial.
-- [ ] Iniciar o nivelamento técnico da equipe em Python, SQL, Excel e Power BI.
+- [✓] Desenvolver um dashboard em Power BI para visualização dos dados.
+- [✓] Implementar métodos de transporte em Excel para análise inicial.
+- [✓] Iniciar o nivelamento técnico da equipe em Python, SQL, Excel e Power BI.
 
 ## Sprint 2
 - [ ] Realizar uma análise profunda dos dados.
@@ -92,7 +92,7 @@ O objetivo deste projeto é desenvolver uma solução integrada para otimizar pr
 
 | Sprint | Previsão | Status | Histórico |
 |--------|----------|--------|-----------|
-| 01     | 08/04/2025 | A fazer | [MVP](https://) |
+| 01     | 08/04/2025 | Concluído | [MVP](https://) |
 | 02     | 22/04/2025 | A fazer | [MVP](https://) |
 | 03     | 13/05/2025 | A fazer | [MVP](https://) |
 | 04     | 24/06/2025 | A fazer | [MVP](https://) |
