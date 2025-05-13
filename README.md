@@ -73,13 +73,13 @@ O objetivo deste projeto é desenvolver uma solução integrada para otimizar pr
 - [✓] Iniciar o nivelamento técnico da equipe em Python, SQL, Excel e Power BI.
 
 ## Sprint 2
-- [ ] Realizar uma análise profunda dos dados.
-- [ ] Gerar os primeiros insights da equipe.
-- [ ] Criar relatório sobre valores CIF/FOB.
-- [ ] Maximizar viagens e volumes dos caminhões.
-- [ ] Analisar distância e valores dos fretes.
-- [ ] Identificar veículos com carga máxima.
-- [ ] Avaliar a frequência de viagens.
+- [✓] Realizar uma análise profunda dos dados.
+- [✓] Gerar os primeiros insights da equipe.
+- [✓] Criar relatório sobre valores CIF/FOB.
+- [✓] Maximizar viagens e volumes dos caminhões.
+- [✓] Analisar distância e valores dos fretes.
+- [✓] Identificar veículos com carga máxima.
+- [✓] Avaliar a frequência de viagens.
 - [ ] Criar um banco de dados SQL para armazenamento das informações.
 
 ## Sprint 3
