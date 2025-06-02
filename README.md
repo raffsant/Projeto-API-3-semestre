@@ -80,13 +80,12 @@ O objetivo deste projeto é desenvolver uma solução integrada para otimizar pr
 - [✓] Analisar distância e valores dos fretes.
 - [✓] Identificar veículos com carga máxima.
 - [✓] Avaliar a frequência de viagens.
-- [ ] Criar um banco de dados SQL para armazenamento das informações.
 
 ## Sprint 3
-- [ ] Desenvolver um modelo de otimização das rotas.
-- [ ] Implementar backend e frontend para o sistema.
-- [ ] Otimizar processos com base nos dados analisados.
-- [ ] Gerar relatório final com tudo o que foi feito e analisado.
+- [✓] Desenvolver um modelo de otimização das rotas.
+- [✓] Implementar backend e frontend para o sistema.
+- [✓] Otimizar processos com base nos dados analisados.
+- [✓] Gerar relatório final com tudo o que foi feito e analisado.
 
 # Registro das Sprints
 
