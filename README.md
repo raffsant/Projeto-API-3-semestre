@@ -93,8 +93,8 @@ O objetivo deste projeto é desenvolver uma solução integrada para otimizar pr
 |--------|----------|--------|-----------|
 | 01     | 08/04/2025 | Concluído | [MVP](https://youtu.be/XUWFMktRAbQ) |
 | 02     | 22/04/2025 | Concluído | [MVP](https://) |
-| 03     | 13/05/2025 | A fazer | [MVP](https://) |
-| Feira de Soluções | 29/05/2025 | A fazer | [MVP](https://) |
+| 03     | 13/05/2025 | Concluído | [MVP](https://) |
+| Feira de Soluções | 29/05/2025 | Concluído | [MVP](https://) |
 
 
 
